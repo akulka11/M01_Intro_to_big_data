@@ -1,0 +1,18 @@
+AR-128. Intro to Music
+AR-250. Live Performance Art
+AR-255. Live Musical Art
+AR-265. Group Singing I
+AR-250- HP Live Performance Art
+AR-255-HP Live Musical Art
+
+CH-131. General Chemistry and Qualitative Analysis I.
+CH-131L. General Chemistry and Qualitative Analysis I Lab.
+CH-132. General Chemistry and Qualitative Analysis II.
+CH-132L. General Chemistry and Qualitative Analysis II Lab.
+CH-365. Physical Chemistry I.
+CH-365L. Physical Chemistry I Lab.
+CH-449. Inorganic Chemistry.
+CH-449L. Inorganic Chemistry Lab.
+CH-499. Research in Chemistry.
+CH-366. Physical Chemistry II.
+CH-366L. Physical Chemistry II Lab.
